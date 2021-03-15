@@ -7,3 +7,5 @@
 <p id="contacts" align="center">
   <a href="mailto: aikon01.ml@gmail.com"><img src="https://img.shields.io/badge/Contact%20me%20-on%20Email-ff69b4" hspace="12" alt="Contact"></a>
 </p>
+
+<p>🌈🌈<p/>
